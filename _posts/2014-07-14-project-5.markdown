@@ -13,4 +13,4 @@ category: Operating Systems
 CentOS emphasises on security and is therefore very popular among system and network administrators. It is also widely used as a production operating system in enterprises with large IT resources and infrastructure.
 Similar to Ubuntu, CentoOS Linux is free to use and redistribute.
 
-CentOS-based Antidote distribution is build on top of CentOS 7.
+CentOS-based Antidote distribution will be built with CentOS 7.
